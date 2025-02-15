@@ -1,0 +1,1 @@
+npm pkg set type=module engines.node=$(node -v) author=hang
